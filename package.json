@@ -1,0 +1,14 @@
+{
+  "name": "soarcoin",
+  "version": "1.0.0",
+  "description": "Don't do drugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Gabriel Fossner",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
